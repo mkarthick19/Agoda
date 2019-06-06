@@ -1,0 +1,7 @@
+{
+"project_id" : "project2",
+"from_week" : "2019W01",
+"to_week" : "2019W02",
+"types" : ["bug"],
+"states" : ["open"]
+}
